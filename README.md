@@ -2,6 +2,8 @@
 
 Vuepress loading overlay plugin based on [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay)
 
+[Demo](https://shufo.dev/)
+
 ## Overview
 
 ![vuepress-plugin-loading-overlay](https://user-images.githubusercontent.com/1641039/101765431-a2bba500-3b24-11eb-97d6-af71636890b1.gif)
