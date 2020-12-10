@@ -54,13 +54,13 @@ You can pass the [options](https://github.com/ankurk91/vue-loading-overlay#avail
 
 ## Testing
 
-```
+```bash
 $ yarn add vue-loading-overlay
 ```
 
 Add this plugin as CommonJS module
 
-```
+```js
 plugins: [
     [require('../vuepress-plugin-loading-overlay'), {}],
 ]
